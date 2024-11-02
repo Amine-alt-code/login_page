@@ -1,0 +1,97 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: black;
+}
+.signin{
+background-color: white;
+padding: 20px;
+border-radius: 20px;
+width: 700px;
+height: 400px;
+
+
+}
+#signin{
+
+    font-family: poppins;
+    position: relative;
+    left: 2cm;
+    
+}
+.HELLO{
+
+    background-color: rgb(67, 3, 241);
+    padding: 50px;
+    border-radius: 130px 20px 20px 130px ;
+    position: relative ;
+    bottom: 440px;
+    left: 9cm;
+    width: 9cm;
+    height: 340px;
+}
+#Friend{
+
+    color: white;
+    font-family: poppins;
+    position: relative;
+    left: 2cm;
+    top: 1cm;
+}
+#signup{
+
+    color: white;
+    font-family: poppins;
+}
+#but{
+    font-family: poppins;
+    background-color: transparent;
+    padding: 10px;
+    border-color: white;
+    border-radius: 12px;
+    color: white;
+    padding: 10px;
+    width: 200px;
+    position: relative;
+    left: 100px;
+}
+#sm{
+    padding: 10px;
+    background-color: transparent;
+    border-width: 0.1px;
+    border-radius: 5px;
+}
+.buttons{
+    position: relative;
+    left: 1.2cm;
+    display: flex;
+    gap: 10px;
+}
+#h6{
+    position: relative;
+    left: 1.8cm;
+    font-size: 10px;
+}
+#email{
+    padding: 7px;
+    border-radius: 10px;
+    height: 0.5cm;
+    width: 7cm;
+    background-color: #e7e7e7;
+    border-color: transparent;
+}
+#sign_in{
+    color: white;
+    position: relative;
+    left: 1cm;
+    background-color: rgb(67, 3, 241);
+    border-radius: 10px;
+    padding: 10px;
+    width: 5cm;
+    border-color: rgb(67, 3, 241);
+}
+.all {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
